@@ -1,0 +1,5 @@
+line 100
+d with r+
+t a second line: pba
+add line
+add 2nd new line 
